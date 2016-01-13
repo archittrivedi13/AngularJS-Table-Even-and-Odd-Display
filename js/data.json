@@ -1,0 +1,80 @@
+{ 
+	"records":
+	[ 
+		{	
+			"Name":"Archit",
+			"City":"Anand",
+			"Country":"India"
+		}, 
+		{
+			"Name":"Archit Trivedi",
+			"City":"Richardson",
+			"Country":"United States"
+		}, 
+		{
+			"Name":"Archit M Trivedi",
+			"City":"Ahmedabad",
+			"Country":"India"
+		}, 
+		{
+			"Name":"Archit M",
+			"City":"Dallas",
+			"Country":"United States"
+		}, 
+		{
+			"Name":"Archit Mahendrakumar",
+			"City":"London",
+			"Country":"UK"
+		}, 
+		{
+			"Name":"Archit Mahendrakumar Trivedi",
+			"City":"Gandhinagar",
+			"Country":"India"
+		}, 
+		{
+			"Name":"A M Trivedi",
+			"City":"Mannheim",
+			"Country":"Germany"
+		}, 
+		{
+			"Name":"A Mahendrakumar Trivedi",
+			"City":"Strasbourg",
+			"Country":"France"
+		}, 
+		{
+			"Name":"A Mahendrakumar T",
+			"City":"Madrid",
+			"Country":"Spain"
+		}, 
+		{
+			"Name":"Archit Mahendrakumar T",
+			"City":"Marseille",
+			"Country":"France"
+		}, 
+		{
+			"Name":"Archit Mahendra Trivedi",
+			"City":"Tsawassen",
+			"Country":"Canada"
+		}, 	
+		{
+			"Name":"A Mahendra Trivedi",
+			"City":"Buenos Aires",
+			"Country":"Argentina"
+		}, 
+		{
+			"Name":"Archit Mahendra T",
+			"City":"México D.F.",
+			"Country":"Mexico"
+		}, 
+		{
+			"Name":"Trivedi Archit Mahendrakumar",
+			"City":"Bern",
+			"Country":"Switzerland"
+		}, 
+		{
+			"Name":"Trivedi Archit M",
+			"City":"São Paulo",
+			"Country":"Brazil"
+		} 
+	] 
+}
